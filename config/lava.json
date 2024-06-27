@@ -1,6 +1,6 @@
 {
   "binary": "lavad",
-  "version": "v1.0.1",
+  "version": "v2.2.0",
   "repo": "https://github.com/lavanet/lava",
   "chain_id": "lava-mainnet-1",
   "genesis": null,
