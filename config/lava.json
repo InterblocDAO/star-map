@@ -1,9 +1,9 @@
 {
   "binary": "lavad",
-  "version": "v2.2.0",
+  "version": "v3.1.0",
   "repo": "https://github.com/lavanet/lava",
   "chain_id": "lava-mainnet-1",
-  "genesis": null,
+  "genesis": "https://raw.githubusercontent.com/lavanet/lava-config/main/mainnet-1/genesis_json/genesis.json",
   "fee_tokens": [
     "ulava"
   ]

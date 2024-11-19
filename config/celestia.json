@@ -1,6 +1,6 @@
 {
   "binary": "celestia-appd",
-  "version": "v1.11.0",
+  "version": "v2.1.2",
   "repo": "https://github.com/celestiaorg/celestia-app",
   "chain_id": "celestia",
   "genesis": "https://raw.githubusercontent.com/celestiaorg/networks/master/celestia/genesis.json",
